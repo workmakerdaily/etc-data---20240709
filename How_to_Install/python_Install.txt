@@ -1,0 +1,16 @@
+jiranor보고 파이썬 설치까지 하고
+구글 vscode(비주얼스튜디오코드) 검색해서 설치한 후에
+vscode에서 해야할것
+- 확장에(블럭모양) 한국어 패치(korean검색 지구모양)
+- github로 로그인 동기화하기
+- 확장에 파이썬 검색해서 제일 위에 있는거 설치
+- 확장에 jupyter 검색해서 제일 위에 있는거 설치
+- 확장에 theme 검색해서 마음에 드는거 설치(학원에서는 GitHub Theme 설치함)
+- 확장에 Better Comments 검색해서 설치
+- 확장에 Color Highlight 검색해서 설치
+- 확장에 Git Graph 검색해서 설치하기(브렌치가 어떻게 연결되어있는지 보여줌)
+- 확장에 Git History 검색해서 설치하기
+- 확장에 GitLens — Git supercharged 검색해서 설치하기(누가 코드를 작성했는지 알게해줌)
+- 확장에 GitHub Repositories 검색해서 설치하기(누가 코드를 작성했는지 알게해줌)
+- ctrol + `~ 누르면 뜨는창에 '플러스 옆에 버튼' 눌러서 '기본 프로필 선택'에 'git bash'로 설정
+

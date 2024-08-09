@@ -1,0 +1,9 @@
+vscode에서 
+- Live Server
+- Bracket Pair Colorization Toggler
+- HTML CSS Support
+- Auto Close Tag
+- indent-rainbow
+- TabOut
+- Material Icon Theme
+다운로드받기

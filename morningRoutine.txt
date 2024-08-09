@@ -1,0 +1,4 @@
+1. 자격증명관리자 github 확인
+2. git config user 정보확인
+	git config -- global user.name 확인
+	git config -- global user.email 확인

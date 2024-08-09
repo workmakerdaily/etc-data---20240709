@@ -1,0 +1,35 @@
+~ : 홈 디렉토리(C:/Users/user)
+
+pwd : 현재 디렉토리 확인(경로를 보여줌)
+
+ls : 현재 디렉토리의 파일 및 폴더 확인
+	ls -a : 숨김 파일 및 폴더 확인 옵션
+	ls -l : 파일과 폴더의 상세정보 확인 옵션
+
+clear : 터미널의 기록 지우기
+
+cd : 폴더 이동
+ .. : 상위폴더 지칭
+cd ../ : 상위 폴더로 이동
+cd 폴더명 : 하위 폴더로 이동
+cd ../../ : 상위폴더로 두단계 이동 
+./ : 현재 폴더
+
+mkdir 폴더명 : 폴더명의 폴더 만들기
+
+vim : 텍스트 에디터 실행
+  vim 파일명 ?  새로 생성  :  열기
+   i : 작성모드 / esc : 일기모드 
+  :w 작성 / :q 종료 :wq 작성후 종료 / q!
+
+rm : 파일 삭제
+ -r : 폴더 삭제 (하위 폴더 및 파일 모두 삭제)
+
+처음 작업할때
+git init 으로 초기화
+git config --global user.name 으로 이름확인
+git config --global user.email 으로 이메일확인
+git add .
+git commit -m ""
+깃 허브에 리포지토리 만들고 git remote add origin옆에 주소 복사 그다음 컨트롤 시프트 인설트
+git push -u origin main
