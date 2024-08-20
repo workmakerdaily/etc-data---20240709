@@ -1,0 +1,20 @@
+스프링부트 설치 방법
+자바 17버전이어야함
+vscode홈페이지 들어가서 자바에 Getting Started 들어가서 설치
+vscode열어서 확장에 Extension Pack for Java 있으면 됨
+
+vscode에서 설치할것
+- Lombok Annotations Support for VS Code
+- Gradle for Java
+- Spring Boot Extension Pack(나뭇잎 모양)
+
+구글에 spring initializr 검색해서 들어가기
+Project -> Gradle-Groovy
+Language -> Java    (요즘 추세는 Kotlin을 많이 쓰는거 같음)
+Spring Boot -> 3.3.2
+Project Metadata -> Packaging -> Jar
+		-> Java -> 17
+Dependencies -> add Dependencies -> web이라고 검색해서 Spring Web 선택
+GENERATE 클릭
+
+구글에서 postman 다운받기 (vscode에서 확장해도 되지만 한글이 안됨)
